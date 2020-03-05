@@ -1,4 +1,4 @@
-package day1.dailyProblem
+package day1.dailyProblemOne
 
 object day1Problems extends App {
 

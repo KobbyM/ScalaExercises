@@ -8,7 +8,7 @@ import scala.util.Random
 object Main extends App {
     var nathan = new AI
 
- 
+
 
 
 }
